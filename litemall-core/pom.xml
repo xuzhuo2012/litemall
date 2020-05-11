@@ -81,6 +81,11 @@
             <groupId>org.linlinjava</groupId>
             <artifactId>litemall-db</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>23.0</version>
+        </dependency>
     </dependencies>
 
 </project>
